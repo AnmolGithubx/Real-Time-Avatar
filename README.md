@@ -85,12 +85,6 @@ real_time_avatar/
 
 ---
 
-## 📸 Preview
-
-> _Coming Soon: GIF or screen recording of the live avatar in action!_
-
----
-
 ## 🙌 Contributions
 
 Feel free to fork this repo, suggest new ideas, or optimize the performance!  
@@ -101,6 +95,6 @@ If you loved it, don't forget to ⭐ star it!
 ## 🧑‍💻 Author
 
 **Anmol Singh**  
-_Builder of interactive, expressive tech experiences._
+**Made with ❤️ and lots of coffe.**
 
 ---
