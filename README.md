@@ -80,6 +80,6 @@ If you loved it, don't forget to ⭐ star it!
 ## 🧑‍💻 Author
 
 **Anmol Singh**  
-**Made with ❤️ and lots of coffe.**
+**Made with ❤️ and lots of coffee.**
 
 ---
