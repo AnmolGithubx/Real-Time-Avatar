@@ -61,21 +61,6 @@ Make sure your webcam is connected and accessible. You'll see your avatar react 
 
 ---
 
-## 📂 Project Structure
-
-```
-real_time_avatar/
-│
-├── face_avatar.py         # Main script
-├── avatar/                # Avatar drawing logic
-│   └── avatar_utils.py    # Utility functions for avatar animation
-├── logic/                 # Emotion detection logic
-│   └── emotion_detector.py
-└── README.md              # This file!
-```
-
----
-
 ## 🤖 Future Ideas
 
 - 🎭 Add more emotional expressions (e.g., fear, disgust, neutral)
